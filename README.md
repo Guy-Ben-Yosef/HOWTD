@@ -3,6 +3,9 @@
 ## Overview
 HOWTD analyzes audio recordings from environments such as kindergartens and old age homes to identify threatening, intimidating, or hostile activities aimed at helpless individuals. It utilizes OpenAI's Whisper for speech-to-text conversion and further analysis.
 
+## Availability
+Currently, the code is available only through Google Colab and utilizes GCP's GPUs. In the future, it will be possible to run locally or continue using GCP's GPUs via token authentication.
+
 ## Installation
 ```bash
 # Clone the repository
